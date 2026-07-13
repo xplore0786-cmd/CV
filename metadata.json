@@ -1,0 +1,6 @@
+{
+  "name": "CVForge - Resume Maker",
+  "description": "Professional resume and CV builder with 20 distinct templates and real-time preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
